@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "popper.js": "^1.16.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-popper": "^2.3.0",
+    "reactstrap": "^9.2.0"
+  },
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "index.js",
+
+  "devDependencies": {},
+  "scripts": {
+  "start": "npm run lite",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "lite": "lite-server"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanDinhDan/confusion.git"
+  },
+  "author": "dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phanDinhDan/confusion/issues"
+  },
+  "homepage": "https://github.com/phanDinhDan/confusion#readme"
+}
