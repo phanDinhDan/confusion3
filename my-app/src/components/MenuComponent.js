@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Media } from 'reactstrap';
 import { Card, CardImg, CardImgOverlay, CardBody, CardTitle, CardText } from 'reactstrap';
 
 
@@ -33,4 +32,4 @@ const Menu = (props) => {
   );
 }
 
-export default Menu;
+export default Menu;  
